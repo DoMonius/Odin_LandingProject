@@ -33,20 +33,20 @@ a {
     margin-bottom: 30px;
 }
 .logo {
-    font-size: 22px;
+    font-size: 30px;
     font-weight: bolder;
 }
 .header ul{
     display: flex;
     gap: 20px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .section1-content {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 230px;
+    gap: 200px;
     padding: 20px;
 }
 
@@ -59,18 +59,12 @@ a {
     font-weight: 700;
 }
 .left-content strong {
-    font-size: 30px;
+    font-size: 48px;
     font-weight: bolder;
 }
 
 .sign-up{
-    background-color: blue ;
-    width: 100px;
-    height: 30px;
-    border: blue;
-    color: white;
-    font-size: 20px;
-    border-radius: 12%;
+    border: #3882F6;
     margin-top: 20px;
 }
 
@@ -79,8 +73,8 @@ a {
 }
 .projects {
     color: black;
-    font-size: 25px;
-    font-weight: bolder;
+    font-size: 36px;
+    font-weight: 900;
     display: flex;
     justify-content: center;
     margin: 20px;
@@ -160,7 +154,7 @@ button {
     align-items: center;
     background-color: #1F2937;
     height: 72px;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
 
 }
