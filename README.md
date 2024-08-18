@@ -1,4 +1,3 @@
 # Odin_LandingProject
-Landing page with HTML and CSSS
-Free flowers image by Irina Iriser!
-Free image by omar alnahi!
+Landing page with HTML and CSSS, flexbox.
+Free  images by Irina Iriser, luis gomes!
