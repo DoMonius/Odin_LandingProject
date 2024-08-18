@@ -104,3 +104,20 @@ a {
     justify-content: center;
     width: 220px;
 }
+.section-3{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+.quote {
+    width: 1000px;
+    height: 200px;
+    font-size: 36px;
+    font:36px light italic #1F2937;
+}
+.author {
+    padding-top: 20px;
+    padding-left: 800px;
+}
