@@ -121,3 +121,29 @@ a {
     padding-top: 20px;
     padding-left: 800px;
 }
+.last-section {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+.contact-box {
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    font-size: 20px;
+    color: white;
+    border-radius: 1%;
+}
+button {
+    background-color: #3882F6;
+    width: 100px;
+    height: 30px;
+    border:  solid white;
+    border-radius: 12%;
+    color: white;
+}
